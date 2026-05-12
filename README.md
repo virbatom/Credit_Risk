@@ -5,7 +5,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 This project examines a loan portfolio where each client received a uniform loan amount of 30,000. Despite a relatively low default rate of 5.3%, the portfolio is currently unprofitable across all distribution channels. This analysis identifies the demographic markers of high-risk clients and provides a model to mitigate future losses.
 
 ### Key Metrics
@@ -18,7 +18,7 @@ This project examines a loan portfolio where each client received a uniform loan
 
 ---
 
-## 📊 Data Insights
+##  Data Insights
 
 ### 1. The Age-IQ-Channel Connection
 The analysis revealed a near-perfect correlation (**0.99**) between Age and IQ. This dependency extends to how clients choose their loan provider:
@@ -38,7 +38,7 @@ Currently, all channels show a net loss per client:
 
 ---
 
-## 🤖 Modeling & Performance
+##  Modeling & Performance
 A **Logistic Regression** model was trained using features such as Age, Gender, Education, and Income Group.
 
 * **Accuracy:** 95.7% (at a 0.4 threshold).
@@ -55,6 +55,6 @@ A **Logistic Regression** model was trained using features such as Age, Gender, 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 * **Language:** Python
 * **Libraries:** `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `statsmodels`

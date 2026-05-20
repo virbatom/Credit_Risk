@@ -27,7 +27,7 @@ predictive modelling with ROC analysis.
 | **Default rate** | 5.3% |
 | **Distribution channels** | Website, Facebook, Broker |
 | **Model** | Logistic Regression with dummy-encoded categoricals |
-| **🏆 Best result** | **ROC AUC = 0.88** (Logistic Regression, 95.7% accuracy) |
+| **Best result** | **ROC AUC = 0.88** (Logistic Regression, 95.7% accuracy) |
 
 ---
 
@@ -212,11 +212,11 @@ pip install pandas numpy matplotlib seaborn scipy statsmodels scikit-learn jupyt
 jupyter notebook Credit_Risk.ipynb
 ```
 
-Random seeds are fixed (`random_state=42` / `421`) so results are reproducible.
+Random seeds are fixed (`random_state=421`) so results are reproducible.
 
 ---
 
-## 📝 Key Takeaways
+## Key Takeaways
 
 1. **Channel selection is almost entirely an age story.** Age and IQ are
    correlated at 0.99 in this dataset, and either one predicts the chosen
@@ -248,7 +248,7 @@ Random seeds are fixed (`random_state=42` / `421`) so results are reproducible.
 
 ---
 
-## 📬 Contact
+## Contact
 
 Built by **Tomáš Virba** 
 

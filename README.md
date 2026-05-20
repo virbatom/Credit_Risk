@@ -18,7 +18,7 @@ predictive modelling with ROC analysis.
 
 ---
 
-## 📊 Project at a Glance
+## Project at a Glance
 
 | Detail | Value |
 |---|---|
@@ -31,7 +31,7 @@ predictive modelling with ROC analysis.
 
 ---
 
-## 🎯 Objective
+## Objective
 
 Analyse a loan portfolio of 10,000 clients with three goals:
 
@@ -47,7 +47,7 @@ Analyse a loan portfolio of 10,000 clients with three goals:
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 Credit_Risk/
@@ -61,7 +61,7 @@ Credit_Risk/
 
 ---
 
-## 📋 Dataset
+## Dataset
 
 The dataset contains 10,000 loan records with demographic, socio-economic, and
 behavioural variables. Each client received the same loan amount of 30,000.
@@ -82,7 +82,7 @@ behavioural variables. Each client received the same loan amount of 30,000.
 
 ---
 
-## 🔬 Methodology
+## Methodology
 
 ### 1. Data preparation
 - Fixed European decimal format (comma → dot) on `IQ` and `rate`
@@ -140,7 +140,7 @@ for binary outcomes (R² = 0.084).
 
 ---
 
-## 📈 Results
+## Results
 
 ### Model performance
 
@@ -177,7 +177,7 @@ All three channels are currently **unprofitable**:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python 3.10+**
 - **pandas**, **NumPy** — data manipulation
@@ -189,7 +189,7 @@ All three channels are currently **unprofitable**:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Option 1 — view the rendered notebook (no setup)
 Open [`Credit_Risk.html`](Credit_Risk.html) in any browser.
@@ -250,7 +250,7 @@ Random seeds are fixed (`random_state=42` / `421`) so results are reproducible.
 
 ## 📬 Contact
 
-Built by **Tomáš Virba** as part of a Master's-level data-science portfolio.
+Built by **Tomáš Virba** 
 
 - GitHub: [@virbatom](https://github.com/virbatom)
 
